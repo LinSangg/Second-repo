@@ -1,0 +1,7 @@
+change 1
+change 2 on master
+<<<<<<< HEAD
+change 3 on master
+=======
+change 3 on branch1
+>>>>>>> branch1
